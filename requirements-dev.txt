@@ -1,0 +1,3 @@
+-r requirements.txt
+fakeredis==2.24.1
+lupa==2.2
